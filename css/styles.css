@@ -1,7 +1,7 @@
 :root
 {
     --blue: #a0ccff;
-    --blue-dark: #1552af;
+    --blue-dark: #152338;
     --black: #000505;
     --blue-light: #8eb7f5;
     --light: #DBE9EE;
@@ -31,7 +31,7 @@ body
     padding: 1em;
     font-size: larger;
     border-radius: 1em;
-    box-shadow: 5px 5px 10px rgb(99, 98, 98) ;
+    box-shadow: 5px 5px 10px rgb(2, 2, 2) ;
 }
 
 .form
